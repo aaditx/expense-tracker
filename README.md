@@ -1,2 +1,30 @@
-# expense-tracker
-🧾 Expense Tracker CLI – Python Mini Project A beginner-friendly command-line Python app to track your daily expenses.  This project allows users to:  Add expenses (amount, category, note)  View all saved expenses  Calculate total spending  Store data using basic file handling (.txt)  Built to practice:  Python functions and loops  File operations (read, write, append)  Exception handling with try/except  🛠 Technologies Used:  Python (Core concepts)  Text file for storage  🎯 Why this project? As a first-year CS student, I built this mini project to apply the basics of Python to something practical and useful. It's simple, effective, and a stepping stone toward larger projects like a GUI or web-based expense manager.
+# 🧾 Expense Tracker CLI – Python Mini Project
+
+This is a simple command-line Python application that helps you track your daily expenses. You can add expenses with amount, category, and a note. It stores everything in a text file so you can view or calculate your total spending anytime.
+
+---
+
+## 🚀 Features
+
+- ➕ Add expenses (amount, category, note)
+- 📖 View all saved expenses
+- 💰 Calculate total money spent
+- 🧠 Menu-driven interface (runs in a loop)
+- ⚠️ Error handling using `try` and `except`
+
+---
+
+## 🛠 Technologies Used
+
+- **Python** – functions, loops, conditionals
+- **File I/O** – `read`, `write`, `append`
+- **Text File** – used for persistent storage (`expenses.txt`)
+
+---
+
+## 📦 How to Run
+
+1. Clone the repository or download the `.py` file:
+   ```bash
+   git clone https://github.com/aaditx/note-taking-app.git
+
